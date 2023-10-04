@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(189, 171, 150, 0.62);
+    margin-top: 10px;
+
+}
+#h1home{
+    text-align: center;
+}
+#lopb{
+   text-align:left;
+}
+#listarodape{
+   position: center;
+}
